@@ -109,7 +109,6 @@ body {
 .footer p > a {
   font-family: 'Montserrat';
   font-style: normal;
-  /* bold */
   font-weight: 500;
   font-size: 14px;
   line-height: 17px;
@@ -175,5 +174,11 @@ body {
     color: #ffffff;
     background: #333333;
     padding: 24px 43px 23px;
+  }
+
+  .footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
   }
 }
