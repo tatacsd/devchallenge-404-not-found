@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://tatacsd.github.io/devchallenge-404-not-found/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/tatacsd/devchallenge-404-not-found/blob/master/index.html">
       Solution
     </a>
     <span> | </span>
@@ -28,24 +28,27 @@
 
 - [Overview](#overview)
   - [Built With](#built-with)
-- [Features](#features)
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+<div align="center" justify="center">
+<img alt="Todo" title="Todo" src="cover.svg" />
+</div>
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+<br />
+<br/>
+  
 
-- Where can I see your demo?
-You can see my demo [here](https://404-not-found-ten.vercel.app/)
-- What was your experience?
 
-- What have you learned/improved?
-- Your wisdom? :)
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to Create a 404 not found page following the design. The page should be responsive. Don’t look at the existing solution. Fulfill user stories below:
+
+User story: I can see a page following the given design
+
+You can see my demo [here](https://tatacsd.github.io/devchallenge-404-not-found/)
+
 
 ### Built With
 
@@ -54,15 +57,6 @@ You can see my demo [here](https://404-not-found-ten.vercel.app/)
 - [css](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [html](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-## Features
-
-<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
-
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to Create a 404 not found page following the design. The page should be responsive. Don’t look at the existing solution. Fulfill user stories below:
-
-User story: I can see a page following the given design
-
 
 ## Contact
 
