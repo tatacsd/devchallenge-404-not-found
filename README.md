@@ -61,5 +61,5 @@ You can see my demo [here](https://tatacsd.github.io/devchallenge-404-not-found/
 ## Contact
 
 
-- GitHub [@your-username](https://github.com/tatacsd)
-- Twitter [@your-twitter](https://twitter.com/thayscasado)
+- GitHub [@tatacsd](https://github.com/tatacsd)
+- Twitter [@thayscasado](https://twitter.com/thayscasado)
